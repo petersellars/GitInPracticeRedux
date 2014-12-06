@@ -1,0 +1,3 @@
+[submodule "GitInPracticeReduxSubmodule"]
+	path = GitInPracticeReduxSubmodule
+	url = git@github.com:petersellars/GitInPracticeReduxSubmodule.git
